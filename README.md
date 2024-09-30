@@ -14,6 +14,6 @@ _DOES NOT_ work in notepad. detects it as non human writing somehow..
 
 **Possible bugs: -**
 
-[.]**the TAB key** can be typed multiple times, making your code absolutely unreadable..
+[ . ] **the TAB key** can be typed multiple times, making your code absolutely unreadable..
 
-[.]Can add a bunch more curly braces at the end of the code you type.. tiny bug. just remove the brackets
+[ . ] Can add a bunch more curly braces at the end of the code you type.. tiny bug. just remove the brackets
