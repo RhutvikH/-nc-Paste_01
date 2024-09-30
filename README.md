@@ -10,9 +10,9 @@ How to use: -
 
 3. Get ready with the tab where you want to paste the text within 5 seconds.. the text will be pasted on the screen
 
-_does not_ work in notepad. detects it as non human writing somehow..
+_DOES NOT_ work in notepad. detects it as non human writing somehow..
 
-Possible bugs: -
+**Possible bugs: -**
 
 **the TAB key** can be typed multiple times, making your code absolutely unreadable..
 
