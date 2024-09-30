@@ -1,7 +1,10 @@
 How to use: -
 
-1. install pyautogui via pip: -  
+1. install pyautogui via pip: -
+
+```
    pip install pyautogui
+```
 
 2. insert the code in the commented slot and run it
 
