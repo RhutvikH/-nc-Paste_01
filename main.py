@@ -31,5 +31,13 @@ class Main {
     }
 }'''
 
-pgi.write(code)
+close_count: int = 0
+for i in code.split("\n"):
+    i = i.strip(" ")
+    if i and i[0] == '}':
+        close_count += 1
+    pgi.write(i + '\n')
+
+for j in range(close_count * 5):
+    pgi.hotkey('ctrl', 'delete')
 time.sleep(2)
